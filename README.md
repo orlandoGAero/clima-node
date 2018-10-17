@@ -1,6 +1,6 @@
 ### Aplicación del Clima en Node
 
-Recuerdad ejecutar el comando ```npm install``` para instalar los
+Recuerda ejecutar el comando ```npm install``` para instalar los
 modulos
 
 ## Ejemplo:
